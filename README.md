@@ -3,7 +3,7 @@
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
-- src = source code for app.py
+- src - source code for app.py
 - events - there are no events. You can ignore.
 - tests - there are no tests. You can ignore.
 - template.yaml - A template that defines the application's AWS resources. Let's be honest, this is a template.
